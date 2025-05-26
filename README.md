@@ -1,3 +1,3 @@
 # ibranova_summertime
 
-[!MyImage](assets/marcy.jpeg)
+![MyImage](assets/marcy.jpeg)
