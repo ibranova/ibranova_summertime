@@ -15,13 +15,14 @@ I'm from Guinea, I'm studying Data Analytics at the Marcy Lab School. I'm passio
 
 Python, Excel, SQL, Tableau , Data Visualization, Git/Github, Data Storytelling
 
-##Projects 
+## Projects 
 
-###Airline Passenger Satisfaction Analysis
--Conducted a full data lifecycle project to analyse feedback from over 120,000 commercial airline passengers, including details about each person, their flight, type of travel, and overall experience.
--Cleaned the data by removing duplicate values, and handling missing values.
--Performed descriptive statistic to in Pyton using Pandas to uncover patterns in customers satisfactions. 
+### Airline Passenger Satisfaction Analysis
+- Conducted a full data lifecycle project to analyse feedback from over 120,000 commercial airline passengers, including details about each person, their flight, type of travel, and overall experience.
+- Cleaned the data by removing duplicate values, and handling missing values.
+- Performed descriptive statistic to in Pyton using Pandas to uncover patterns in customers satisfactions. 
+![Python_descriptive_statistics](assets/python_analysis)
 
-##Contact
+## Contact
 
 You can reach at: itsme@gmail.com or my [linkedin](https://www.linkedin.com/in/ibrahima-diallo-58092b270/) 
