@@ -25,4 +25,4 @@ Python, Excel, SQL, Tableau , Data Visualization, Git/Github, Data Storytelling
 
 ## Contact
 
-You can reach at: itsme@gmail.com or my [linkedin](https://www.linkedin.com/in/ibrahima-diallo-58092b270/) 
+You can reach me at: itsme@gmail.com or my [LinkedIn](https://www.linkedin.com/in/ibrahima-diallo-58092b270/) 
